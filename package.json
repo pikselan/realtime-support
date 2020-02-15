@@ -1,0 +1,27 @@
+{
+  "name": "realtime-support",
+  "version": "1.0.0",
+  "description": "Realtime Chat for Support with React, Golang, RethinkDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pikselan/realtime-support.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pikselan/realtime-support/issues"
+  },
+  "homepage": "https://github.com/pikselan/realtime-support#readme",
+  "dependencies": {
+    "babel-loader": "^5.3.3",
+    "fecha": "^4.1.0",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  }
+}
