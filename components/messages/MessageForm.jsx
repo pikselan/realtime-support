@@ -31,7 +31,7 @@ class MessageForm extends Component{
 }
 
 MessageForm.propTypes = {
-    activeChannel: React.PropTypes.array.isRequired,
+    activeChannel: React.PropTypes.object.isRequired,
     addMessage: React.PropTypes.func.isRequired
 }
 
