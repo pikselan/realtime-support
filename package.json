@@ -4,6 +4,7 @@
   "description": "Realtime Chat for Support with React, Golang, RethinkDB",
   "main": "index.js",
   "scripts": {
+    "start": "npx webpack-dev-server --port 4001",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
